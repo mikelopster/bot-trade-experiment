@@ -1,0 +1,1 @@
+## Project สำหรับการทดลอง Bot trade
