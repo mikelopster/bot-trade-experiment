@@ -12,4 +12,4 @@
 [![bot-trade-python](https://img.youtube.com/vi/5mCnhS_P99E/0.jpg)](https://youtu.be/5mCnhS_P99E)
 
 ### อ่านบทความวิเคราะห์ฉบับเต็มได้ที่
-https://blog.mikelopster.dev/c22fb267c2b
+https://blog.mikelopster.dev/blog-trade
